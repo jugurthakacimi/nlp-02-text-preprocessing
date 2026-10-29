@@ -32,12 +32,12 @@ The project is configured in
 
 ## Data
 
-The example uses text records stored in
-[data/text_data.txt](data/text_data.txt).
+The project uses text records stored in
+[data/water_data_centers.txt](data/water_data_centers.txt).
 
-Each line represents one text record.
+The text data was copied from the EESI link : https://www.eesi.org/articles/view/data-centers-and-water-consumption
 
-The project combines these records and applies
+The project applies
 several preprocessing operations to prepare
 the text for analysis.
 

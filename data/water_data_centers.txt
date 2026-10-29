@@ -1,3 +1,35 @@
+EESI - Environmental and Energy Study Institute
+Advancing science-based solutions for a sustainable, resilient, and equitable world
+Top-Rated Climate Nonprofit – 4-Star Charity
+About
+News
+Get InvolvedSubscribeContact
+Topics
+Programs
+Briefings
+Publications
+Resources
+Donate
+Search eesi.org
+
+Energy Transmission and StorageFossil Fuels
+Data Centers and Water Consumption
+By Miguel Yañez-Barnuevo
+June 25, 2025
+
+Highlights:
+
+EESI Data Center Resources
+
+See all of our articles on the impacts of data centers, including their energy needs, water usage, noise pollution, and contribution to higher energy bills:
+The Environmental Impacts of Data Centers (Article Series)
+
+All EESI Data Center Resources
+
+Data center developers are increasingly tapping into freshwater resources to quench the thirst of data centers, which is putting nearby communities at risk.
+Large data centers can consume up to 5 million gallons per day, equivalent to the water use of a town populated by 10,000 to 50,000 people.
+With larger and new AI-focused data centers, water consumption is increasing alongside energy usage and carbon emissions.
+Novel technologies like direct-to-chip cooling and immersion cooling can reduce water and energy usage by data centers.
 Data centers have a thirst for water, and their rapid expansion threatens freshwater supplies. Only 3% of Earth’s water is freshwater, and only 0.5% of all water is accessible and safe for human consumption. Freshwater is critical for survival. On average, a human being can live without water for only three days. Increasing drought and water shortages are reducing water availability. Meanwhile, data center developers are increasingly tapping into surface and underground aquifers to cool their facilities.
 
 Data center water usage closely parallels energy usage and carbon emissions. As data centers use more energy for their typical data center operations and to meet AI requests, they consume larger amounts of water to cool their processor chips, so as to avoid overheating and potential damage. Similarly, as energy use increases in data centers, so do carbon emissions.
@@ -59,3 +91,59 @@ Immersion cooling in data centers involves bathing servers, chips, and other com
 Powering data centers with renewable energy sources, like solar or wind, requires significantly less water consumption than obtaining energy from fossil fuel power plants. With approximately 56% of the electricity used to power data centers nationwide coming from fossil fuels, deploying more clean energy to power these facilities can significantly reduce water consumption. Coal plants are the most water-intensive facilities, requiring approximately 19,185 gallons of water per megawatt-hour (MWh) of power generation. Natural gas power plants consume approximately 2,800 gallons per MWh. In 2022, 40% of all total U.S. annual water withdrawals, or about 48.5 trillion gallons, were made by coal and gas power plants. Of those 48.5 trillion gallons, 962 billion gallons of water were consumed and were no longer available for direct downstream use. Meanwhile, rooftop solar panels and wind turbines do not need any cooling water, and they are not a steam-based energy technology like coal and natural gas.
 
 If the United States moves toward 100% renewable energy generation and the retirement of fossil fuel plants, the water savings would be enormous, with billions of gallons of water saved, and more freshwater would be available for both human consumption and natural ecosystems.
+
+Author: Miguel Yañez-Barnuevo
+
+EESI RSS FeedEESI RSS Feed
+
+Newsletters
+Climate Change Solutions
+EESI Impact
+COP Dispatch
+Podcast
+The Climate Conversation  EESI-Podcast-Logo-1200x1053.png
+Tags / Keywords
+Data Centers
+Electric Grid
+Sustainability
+Environmental and
+Energy Study Institute
+1020 19th Street, NW, Suite 400
+Washington, DC 20036-6101
+
+(202) 628-1400 phone
+
+
+info@eesi.org
+Team directory
+EIN: 52-1268030
+
+About EESI
+EESI advances science-based solutions for climate change, energy, and environmental challenges in order to achieve our vision of a sustainable, resilient, and equitable world.
+
+More about EESI
+
+RSS Feed
+
+Charity Navigator
+Guidestar Platinum Badge
+GreatNonprofits Badge
+cfc-logo.png
+1_Percent_for_the_Planet_Vertical_FullColor-89x107.png
+Sitemap
+Home
+Topics
+Programs
+Briefings
+Publications
+Resources
+Donate
+About
+Careers
+Internships
+News
+Get Involved
+Subscribe
+Contact
+Copyright © Environmental and Energy Study Institute (EESI). Our work is licensed under a Creative Commons Attribution License.
+Privacy Policy
